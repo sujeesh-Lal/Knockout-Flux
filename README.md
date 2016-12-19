@@ -1,4 +1,4 @@
-Knockout.js with Reflux Architecture
+Knockout.js with Flux Architecture
 ====================================
 
 ### Usage
